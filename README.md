@@ -31,8 +31,6 @@ This project is a website developed as part of an interview task for **Arion Med
 6. **Contact Page**  
    ![Contact Page](./assets/public/contact.png)  
 
-## Installation  
+ 
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/arion-media-corp.git  
+ 
